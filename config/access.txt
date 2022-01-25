@@ -1,0 +1,9 @@
+*bd-config
+	n: air_ecommerce1
+	u: root
+	p: " "
+
+*wp-admin
+
+	u: admin
+	p: admin2022+
